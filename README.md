@@ -2,7 +2,7 @@
 - 👀 I’m interested in QA processes, Penetration testing
 - 🌱 I’m currently learning Penetration testing
 - 💞️ I’m looking to collaborate on software security projects
-- 📫 How to reach me - on LinkedIn - https://linkedin.com/adrianardeljan
+- 📫 How to reach me - on LinkedIn - https://linkedin.com/in/adrianardeljan
 
 <!---
 AdrianArdeljan/AdrianArdeljan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
